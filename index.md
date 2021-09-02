@@ -4,7 +4,7 @@ This is my page which I used the Jekyll Themes.
 
 ### Hello World
 
-```markdown
+
 My shopping list for X'mas
 
 - Iphone 13
